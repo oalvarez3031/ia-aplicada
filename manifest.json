@@ -1,0 +1,15 @@
+{
+  "name": "Octavio Álvarez – IA Aplicada",
+  "short_name": "IA Aplicada",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#0D1117",
+  "theme_color": "#0D1B2A",
+  "icons": [
+    {
+      "src": "assets/favicon.svg",
+      "sizes": "64x64",
+      "type": "image/svg+xml"
+    }
+  ]
+}
